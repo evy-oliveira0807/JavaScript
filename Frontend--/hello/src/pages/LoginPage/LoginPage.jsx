@@ -1,9 +1,14 @@
-import React from 'react';
+import React, {useContext} from 'react';
+import { ThemeContext } from '../../context/ThemeContext';
 
 const LoginPage = () => {
+
+    const {theme} = useContext(ThemeContext);
+    
     return (
         <div>
-            <h1>Pagina Login</h1>
+            <h1>Página de Login</h1>
+          <span>{ theme }</span>  
         </div>
     );
 };
