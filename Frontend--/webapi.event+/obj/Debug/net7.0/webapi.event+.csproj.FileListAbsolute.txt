@@ -1547,7 +1547,6 @@ C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\webapi.event+.csproj.CoreCompileInputs.cache
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\webapi.event+.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\webapi.event+.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\webapi.event+.sourcelink.json
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\53143873876\Desktop\JavaScript\Frontend--\webapi.event+\obj\Debug\net7.0\staticwebassets\msbuild.webapi.event+.Microsoft.AspNetCore.StaticWebAssets.props

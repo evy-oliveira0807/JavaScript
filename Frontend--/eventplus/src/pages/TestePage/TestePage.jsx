@@ -1,23 +1,23 @@
-import React, { useEffect, useState } from "react";
+// import React, { useEffect, useState } from "react";
 
-const TestePage = () => {
-  const [count, setCount] = useState(100);
-  const [calculation, setCalculation] = useState(0);
+// const TestePage = () => {
+//   const [count, setCount] = useState(0);
+//   const [calculation, setCalculation] = useState(0);
 
-  //executa quando o componente for montado
-  //e quando o state count for alterado
-  useEffect(() => {
-    setCalculation( count * 2 );
-    console.log(`Rodou ${count}`);
-  }, []);
+//   //executa quando o componente for montado
+//   //e quando o state count for alterado
+//   useEffect(() => {
+//     setCalculation( count * 2 );
+//     console.log(`Rodou ${count}`);
+//   }, []);
 
-  return (
-    <>
-      <p>Count: {count}</p>
-      <button onClick={() => setCount((c) => c + 1)}>+</button>
-      <p>Calculation: {calculation}</p>
-    </>
-  );
-};
+//   return (
+//     <>
+//       <p>Count: {count}</p>c
+//       <button onClick={() => setCount((c) => c + 1)}>+</button>
+//       <p>Calculation: {calculation}</p>
+//     </>
+//   );
+// };
 
-export default TestePage;
+// export default TestePage;
